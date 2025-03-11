@@ -22,7 +22,7 @@ Welcome to the **Loan Riskiness Prediction** app! 🚀 This tool helps in predic
 ## 🔧 Installation
 1️⃣ Clone the repository:
 ```bash
-git clone https://github.com/your-username/loan-risk-prediction.git
+git clone https://github.com/Poojaschavan97/Loan-Riskiness-Prediction-OG.git
 cd Loan-Riskiness-Prediction-OG
 ```
 
