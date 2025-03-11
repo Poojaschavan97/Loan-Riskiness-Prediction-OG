@@ -16,6 +16,9 @@ Welcome to the **Loan Riskiness Prediction** app! 🚀 This tool helps in predic
 ## 🖥️ Preview
 ![image](https://github.com/user-attachments/assets/0d7ba353-f8dd-4f95-bc16-802fc93f4e5a)
 
+![image](https://github.com/user-attachments/assets/7c2502c5-6d6b-4dc2-b25d-e6f53040be7d)
+
+
 
 ---
 
